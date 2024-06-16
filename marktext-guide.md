@@ -33,9 +33,9 @@ MarkText **[GitHub releases page](https://github.com/marktext/marktext/releases
 
 
 
-`Code Text`
+This is an example of inline `Code Text` where section of code text is placed mid-sentence
 
-Some text here
+Some general text here
 
 `Another code text`
 
