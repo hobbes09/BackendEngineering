@@ -14,21 +14,11 @@ public static void main(String[] args){
 
 [BEST markdown editor for Linux, Windows, and Mac? - YouTube](https://www.youtube.com/watch?v=GJGpBw4bWFk&t=304s&ab_channel=TechHut)
 
-
-
 Here is a part of text made **bold ** in the middle
-
-
 
 ![Screenshot 2024-01-14 192046.png](https://raw.githubusercontent.com/hobbes09/BackendEngineering/main/2024/06/16-16-43-51-Screenshot%202024-01-14%20192046.png)
 
-
-
 check text
-
-
-
-
 
 Here are some key features about MarkText:
 
@@ -39,17 +29,17 @@ Here are some key features about MarkText:
   - **Typewriter Mode**: Simulates a typewriter experience, focusing on the current line.
   - **Focus Mode**: Hides the preview pane and other UI elements, allowing you to concentrate solely on writing.
 
-
-
-
-
-
-
 MarkText **[GitHub releases page](https://github.com/marktext/marktext/releases)**
 
 
 
+`Code Text`
 
+Some text here
+
+`Another code text`
+
+Thus demostrated
 
 
 
