@@ -4,21 +4,15 @@
 
 ### This is Heading 3
 
-
-
 [MarkText · GitHub](https://github.com/marktext)
 
 [BEST markdown editor for Linux, Windows, and Mac? - YouTube](https://www.youtube.com/watch?v=GJGpBw4bWFk&t=304s&ab_channel=TechHut)
-
-
 
 Here is a part of text made **bold ** in the middle
 
 
 
-![Screenshot 2024-05-04 121126.png](https://raw.githubusercontent.com/hobbes09/BkndEnggMrkTxtResources/main/2024/06/16-20-58-27-Screenshot%202024-05-04%20121126.png?token=ABHL56VK77WJNCHETCJJOGDGN4CNK)
-
-
+![Screenshot 2024-05-04 121126.png](https://raw.githubusercontent.com/hobbes09/BkndEnggMrkTxtResources/main/2024/06/16-21-21-21-Screenshot%202024-05-04%20121126.png)
 
 
 
@@ -33,11 +27,7 @@ Here are some key features about MarkText:
   - **Typewriter Mode**: Simulates a typewriter experience, focusing on the current line.
   - **Focus Mode**: Hides the preview pane and other UI elements, allowing you to concentrate solely on writing.
 
-
-
 MarkText **[GitHub releases page](https://github.com/marktext/marktext/releases)**
-
-
 
 This is an example of inline `Code Text` where section of code text is placed mid-sentence
 
@@ -47,13 +37,9 @@ Some general text here
 
 Thus demostrated
 
-
-
 The below is an example of a Code Fence feature in Marktext
 
 ```
 SimpleDateFormat format = new SimpleDateFormat( "dd.MM.yyyy" );
 Date date = format.parse( myString );
 ```
-
-
