@@ -16,7 +16,7 @@ public static void main(String[] args){
 
 
 
-
+Here is a part of text made **bold ** in the middle
 
 
 
@@ -25,3 +25,32 @@ public static void main(String[] args){
 
 
 check text
+
+
+
+
+
+Here are some key features about MarkText:
+
+- **Live Preview**: MarkText instantly provides a live preview of your markdown content as you type, so you can see how your text will look when rendered.
+- **Syntax Highlighting**: It supports syntax highlighting for various programming languages, making it useful for writing code snippets within your markdown documents.
+- **Efficient Editing Modes**: MarkText supports three editing modes when writing markdown files.
+  - **Source Code Mode**: Ideal for those who prefer to work directly with markdown syntax.
+  - **Typewriter Mode**: Simulates a typewriter experience, focusing on the current line.
+  - **Focus Mode**: Hides the preview pane and other UI elements, allowing you to concentrate solely on writing.
+
+
+
+
+
+
+
+MarkText **[GitHub releases page](https://github.com/marktext/marktext/releases)**
+
+
+
+
+
+
+
+
