@@ -10,9 +10,9 @@ public static void main(String[] args){
     }
 }
 
-[]([MarkText · GitHub](https://github.com/marktext))
+[MarkText · GitHub](https://github.com/marktext)
 
-[]([BEST markdown editor for Linux, Windows, and Mac? - YouTube](https://www.youtube.com/watch?v=GJGpBw4bWFk&t=304s&ab_channel=TechHut))
+[BEST markdown editor for Linux, Windows, and Mac? - YouTube](https://www.youtube.com/watch?v=GJGpBw4bWFk&t=304s&ab_channel=TechHut)
 
 
 
