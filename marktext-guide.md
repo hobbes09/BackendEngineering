@@ -4,11 +4,9 @@
 
 ### This is Heading 3
 
-public static void main(String[] args){
-    for (int i = 0; i < 10; i++) {
-        System.io.println("Hello World!");
-    }
-}
+
+
+
 
 [MarkText · GitHub](https://github.com/marktext)
 
@@ -42,5 +40,12 @@ Some general text here
 Thus demostrated
 
 
+
+The below is an example of a Code Fence feature in Marktext
+
+```
+SimpleDateFormat format = new SimpleDateFormat( "dd.MM.yyyy" );
+Date date = format.parse( myString );
+```
 
 
